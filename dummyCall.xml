@@ -1,0 +1,9 @@
+<Response>
+    <Say voice="man">
+        Hiya ......
+    </Say>
+    <Pause length="1"/>
+    <Say voice="alice">
+        Good Afternoon.
+    </Say>
+</Response>
